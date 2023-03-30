@@ -1,11 +1,11 @@
 <div align="center">
 
-  <b>Welcome PoeySK's GitHub</b> 🎉
+  ## 🎉 Welcome PoeySK's GitHub
 </div>
 
-  > 안녕하세요. 프론트 엔드 개발을 주로 공부를 하고 있는 대학생입니다.
-  
-  <hr />
+> 안녕하세요. 프론트 엔드 개발을 주로 공부를 하고 있는 대학생입니다.
+
+<hr />
   
 <div align="center">
   <div>📢 Email </div>
@@ -30,10 +30,12 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
   
-  <h4>🎮Use IDE </h4>
+  <h4>🎮Use Tools </h4>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VSCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
   
   <h4>💡Study... </h4>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
@@ -41,32 +43,18 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   
   #
-  
+</div>
+<div align="center">
   <h5> 📋 GitHub Stats 
-  
+ 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPoeySK%2Fhit-counter&count_bg=%23A9A7C0&title_bg=%238705E7&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
   </h5>
+</div>
+<div align="left" display="flex">
   
   ![PoeySK's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoeySK&show_icons=true&theme=highcontrast)  
   
-  <h5>🎖 BaekJoon Solved Rank <h5>
-  
+  🎖 BaekJoon Solved Rank 
+
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=piz122)](https://solved.ac/piz122)
-  
-  </div>
 </div>
-<!--
-**PoeySK/PoeySK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
