@@ -53,7 +53,7 @@
 </div>
 <div align="left" display="flex">
   
-  ![PoeySK's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoeySK&show_icons=true&theme=highcontrast)  
+  ![PoeySK's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PoeySK&show_icons=true&theme=highcontrast)  
   
   🎖 BaekJoon Solved Rank 
 
